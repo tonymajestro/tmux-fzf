@@ -13,6 +13,7 @@ set -g @plugin 'tonymajestro/tmux-fzf'
 
 ## Keys
 `prefix` + `f`: search for tmux windows in current session
+
 `prefix` + `F`: search for running tmux sessions
 
 You can use the arrow keys or `<C-j>` and `<C-k>` to navigate the fzf results. Hitting enter will switch to the selected tmux session or window. To cancel, press escape or <C-c>.
