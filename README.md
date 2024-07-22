@@ -5,8 +5,14 @@ Yet another tmux fzf plugin. Used to quickly navigate between open tmux sessions
 - [fzf](https://github.com/junegunn/fzf)
 - python 3.x
 
+## Screenshot
+
+![tmux-fzf screenshot](/images/screenshot.png)
+
+
 ## Installing
 The easiest way to install tmux-fzz is to use [TPM](https://github.com/tmux-plugins/tpm):
+
 ```
 set -g @plugin 'tonymajestro/tmux-fzf'
 ```
