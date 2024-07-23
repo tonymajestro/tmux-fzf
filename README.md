@@ -11,8 +11,7 @@ Yet another tmux fzf plugin. Used to quickly navigate between open tmux sessions
 
 
 ## Installing
-The easiest way to install tmux-fzz is to use [TPM](https://github.com/tmux-plugins/tpm):
-
+The easiest way to install tmux-fzf is to use [TPM](https://github.com/tmux-plugins/tpm):
 ```
 set -g @plugin 'tonymajestro/tmux-fzf'
 ```
